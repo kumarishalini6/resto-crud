@@ -1,0 +1,49 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "shalini restaurant",
+      "address": "tcp takenpur gwalior",
+      "mobile no.": "758949040",
+      "email": "shalini123@gmail.com"
+    },
+    {
+      "name": "nishu Restaurant",
+      "address": "new Delhi",
+      "email": "nishurest4@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "jsdbmn",
+      "address": ",mzcx zx",
+      "email": "ksjdfcn",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "shalini",
+      "password": "123456",
+      "email": "nisha@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "axbh",
+      "password": "k.sm,x",
+      "email": ",mx",
+      "id": 2
+    },
+    {
+      "name": "axbh",
+      "password": "k.sm,x",
+      "email": ",mx",
+      "id": 3
+    },
+    {
+      "name": "shalini",
+      "password": "12345",
+      "email": "shalini@gmail.com",
+      "id": 4
+    }
+  ]
+}
